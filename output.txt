@@ -1,0 +1,30 @@
+avinash@avinash-VirtualBox ~/Documents/networks $ ./a.out
+
+Socket created
+ENTER PORT NO:
+4484
+
+Port Address is 4484
+:
+Connection accepted!
+Enter the data to be send type exit for stop:
+Connection accepted!
+Client: hi!
+hey!
+
+Client: all_cool
+yes:)
+
+avinash@avinash-VirtualBox ~/Documents/networks $ ./a.out
+ENTER PORT NO:
+4484
+
+Enter the data to be send type exit for stop:
+hi!
+
+Server: hey!
+all_cool
+
+Server: yes:)
+
+
